@@ -106,25 +106,6 @@ print(me.motto())
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mryunus&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/mryunus)
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=mryunus&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/mryunus)
-
-</div>
-
----
 
 ## 💼 Work Experience
 
